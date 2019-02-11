@@ -3,4 +3,4 @@ The N-queens is the problem of placing N chess queens on an N×N chessboard so t
 
 <img src="https://developers.google.com/optimization/images/queens/sol_4x4_b.png">
 
-Here we can see that no two queens are on the same row, column, or diagonal in a 4x4 chessboard.
+Here we can see that none of the 4 queens are on the same row, column, or diagonal in a 4x4 chessboard.
